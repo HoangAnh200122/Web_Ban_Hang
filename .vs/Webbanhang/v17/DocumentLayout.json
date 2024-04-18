@@ -1,0 +1,1625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|c:\\users\\ngoho\\onedrive\\desktop\\do_an\\do_an\\do_an\\do_an\\mood\\draw\\categorydraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\categorydraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\cart\\paymentmomo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\cart\\paymentmomo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\cart\\confirm_orderpaymentonline.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\cart\\confirm_orderpaymentonline.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\sanphamdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\sanphamdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\quanlysachdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\quanlysachdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\feedback\\reply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\feedback\\reply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\feedback\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\feedback\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\webmanager\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\webmanager\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\homes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\homes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\usermodel\\usermodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\usermodel\\usermodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\shared\\_layouthome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\project_readme.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\promotion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\promotion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\danhsachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\danhsachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\chitietlienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\chitietlienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\nhaphangdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\nhaphangdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\nhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\nhaphangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\home\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\home\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\shared\\topmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\shared\\topmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\shared\\mainmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\shared\\mainmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\nganluongapi\\apicheckoutv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\nganluongapi\\apicheckoutv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\areas\\admin\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\nganluongapi\\nganluonginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\nganluongapi\\nganluonginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\momo api\\momoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\momo api\\momoinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\feed_backdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\feed_backdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\assets\\js\\components\\hs.clipboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\assets\\js\\components\\hs.clipboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\scripts\\_references.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\scripts\\_references.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\order_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\menutype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\menutype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\ef2\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\ef2\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\userdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\userdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\menumodel\\menumodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\menumodel\\menumodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\nhacungcapdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\nhacungcapdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\messengerdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\messengerdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\menudraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\menudraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\footerdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\footerdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\draw\\contactdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\draw\\contactdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B120F73C-78B8-42C1-ADAB-179912B7E6C0}|CommomSentMail\\CommomSentMail.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\commomsentmail\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B120F73C-78B8-42C1-ADAB-179912B7E6C0}|CommomSentMail\\CommomSentMail.csproj|solutionrelative:commomsentmail\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B120F73C-78B8-42C1-ADAB-179912B7E6C0}|CommomSentMail\\CommomSentMail.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\commomsentmail\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B120F73C-78B8-42C1-ADAB-179912B7E6C0}|CommomSentMail\\CommomSentMail.csproj|solutionrelative:commomsentmail\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\hoadonmodel\\messengermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\hoadonmodel\\messengermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\mood\\hoadonmodel\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D6D752-3BF7-4A29-80D0-6030647BE03C}|Mood\\Mood.csproj|solutionrelative:mood\\hoadonmodel\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\newpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\newpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\restestpassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\restestpassmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\cart\\cancel_order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\cart\\cancel_order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\cart\\odercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\cart\\odercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\product\\categorymobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\product\\categorymobile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\shared\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\shared\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\product\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\product\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\product\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\product\\listproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\profileuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\messengeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\messengeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\messengerreply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\messengerreply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\home\\headercart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\home\\headercart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\home\\slider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\home\\slider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\baitaplon\\views\\cart\\cancel_order_momo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98FBB889-A7BC-4C1A-BF38-6F4D30F7790D}|BaiTapLon\\Webbanhang.csproj|solutionrelative:baitaplon\\views\\cart\\cancel_order_momo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BaiTapLon\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAKwAAAAAKAAAAADkv7MAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:48:51.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\App.config",
+              "RelativeDocumentMoniker": "Mood\\App.config",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\App.config",
+              "RelativeToolTip": "Mood\\App.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T16:16:55.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwEgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\Web.config",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Web.config",
+              "RelativeToolTip": "BaiTapLon\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T16:16:55.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\packages.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\packages.config",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\packages.config",
+              "RelativeToolTip": "BaiTapLon\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T16:17:24.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\CategoryDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\CategoryDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\CategoryDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\CategoryDraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAEwD8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T16:16:55.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "confirm_orderPaymentOnline.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\confirm_orderPaymentOnline.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\confirm_orderPaymentOnline.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\confirm_orderPaymentOnline.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\confirm_orderPaymentOnline.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T16:16:55.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentMoMo.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\PaymentMoMo.cshtml",
+              "ViewState": "AQIAABwCAAAAYAAAAADkvyYCAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T16:16:55.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Startup.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Startup.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Startup.cs",
+              "RelativeToolTip": "BaiTapLon\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanphamDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\SanphamDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\SanphamDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\SanphamDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\SanphamDraw.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAewBgBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\packages.config",
+              "RelativeDocumentMoniker": "Mood\\packages.config",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\packages.config",
+              "RelativeToolTip": "Mood\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T16:16:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuanLySachDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\QuanLySachDBContext.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\QuanLySachDBContext.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\QuanLySachDBContext.cs",
+              "RelativeToolTip": "Mood\\EF2\\QuanLySachDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:25:40.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAFEBAAAAAAAAAAAqwGUBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Web.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Web.config",
+              "RelativeToolTip": "BaiTapLon\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T16:18:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sanpham.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Sanpham.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\Sanpham.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Sanpham.cs",
+              "RelativeToolTip": "Mood\\EF2\\Sanpham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:31:05.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "BaiTapLon\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:24:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTapLon\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:24:22.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Mood\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Properties\\Settings.settings",
+              "RelativeToolTip": "Mood\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-04-18T16:27:28.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-18T16:16:55.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Menu.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Menu.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\WebManager\\Menu.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:54.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\AboutUs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T16:16:55.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\ChiTiet.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\ChiTiet.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\ChiTiet.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Reply.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Reply.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Reply.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Reply.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Reply.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\FeedBack\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Project_Readme.html",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Project_Readme.html",
+              "RelativeDocumentMoniker": "BaiTapLon\\Project_Readme.html",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Project_Readme.html",
+              "RelativeToolTip": "BaiTapLon\\Project_Readme.html",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-18T16:16:55.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\Dashboard.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\Dashboard.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NhapHangDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\NhapHangDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\NhapHangDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\NhapHangDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\NhapHangDraw.cs",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAAAEcBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ChiTietHoaDon.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\ChiTietHoaDon.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\ChiTietHoaDon.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\ChiTietHoaDon.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\ChiTietHoaDon.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChiTietLienHe.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\ChiTietLienHe.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\ChiTietLienHe.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\ChiTietLienHe.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\ChiTietLienHe.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwB8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_LayoutHome.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Shared\\_LayoutHome.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\_LayoutHome.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Shared\\_LayoutHome.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\Homes\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Views\\Homes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Views\\Homes\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Views\\Homes\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NhapHangController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\NhapHangController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAIwJoAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserModelView.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\UserModel\\UserModelView.cs",
+              "RelativeDocumentMoniker": "Mood\\UserModel\\UserModelView.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\UserModel\\UserModelView.cs",
+              "RelativeToolTip": "Mood\\UserModel\\UserModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\Header.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Home\\Header.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\Header.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Home\\Header.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DanhSachHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\DanhSachHang.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\DanhSachHang.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\DanhSachHang.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\DanhSachHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Promotion\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Promotion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Promotion\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Promotion\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TopMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\TopMenu.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Shared\\TopMenu.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\TopMenu.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Shared\\TopMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\MainMenu.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Shared\\MainMenu.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\MainMenu.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Shared\\MainMenu.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAqwF0AAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "APICheckoutV3.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "RelativeToolTip": "BaiTapLon\\NganLuongAPI\\APICheckoutV3.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwJkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAcwJcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "BaiTapLon\\Areas\\Admin\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAgwJMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TrangChu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\TrangChu.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Home\\TrangChu.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\TrangChu.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Home\\TrangChu.cshtml",
+              "ViewState": "AQIAAEoCAAAAAAAAAAAAAOECAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Contact.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\Contact.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Contact.cs",
+              "RelativeToolTip": "Mood\\EF2\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "momoInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\MoMo API\\momoInfo.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\MoMo API\\momoInfo.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\MoMo API\\momoInfo.cs",
+              "RelativeToolTip": "BaiTapLon\\MoMo API\\momoInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BaiTapLon\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "nganluongInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\NganLuongAPI\\nganluongInfo.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\NganLuongAPI\\nganluongInfo.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\NganLuongAPI\\nganluongInfo.cs",
+              "RelativeToolTip": "BaiTapLon\\NganLuongAPI\\nganluongInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Feed_BackDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\Feed_BackDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\Feed_BackDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\Feed_BackDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\Feed_BackDraw.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\LoginModel.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "hs.clipboard.js",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\assets\\js\\components\\hs.clipboard.js",
+              "RelativeDocumentMoniker": "BaiTapLon\\assets\\js\\components\\hs.clipboard.js",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\assets\\js\\components\\hs.clipboard.js",
+              "RelativeToolTip": "BaiTapLon\\assets\\js\\components\\hs.clipboard.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T16:16:55.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "_references.js",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Scripts\\_references.js",
+              "RelativeDocumentMoniker": "BaiTapLon\\Scripts\\_references.js",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Scripts\\_references.js",
+              "RelativeToolTip": "BaiTapLon\\Scripts\\_references.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T16:16:55.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "NewPassWordModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\NewPassWordModel.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\NewPassWordModel.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\NewPassWordModel.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\NewPassWordModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\ManageViewModels.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\CartItem.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RestestPassModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\RestestPassModel.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\RestestPassModel.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\RestestPassModel.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\RestestPassModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "BaiTapLon\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Order_Detail.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Order_Detail.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\Order_Detail.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Order_Detail.cs",
+              "RelativeToolTip": "Mood\\EF2\\Order_Detail.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "NhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\NhapHang.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\NhapHang.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\NhapHang.cs",
+              "RelativeToolTip": "Mood\\EF2\\NhapHang.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "NhaCungCap.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\NhaCungCap.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\NhaCungCap.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\NhaCungCap.cs",
+              "RelativeToolTip": "Mood\\EF2\\NhaCungCap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Messenger.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Messenger.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\Messenger.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Messenger.cs",
+              "RelativeToolTip": "Mood\\EF2\\Messenger.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MenuType.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\MenuType.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\MenuType.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\MenuType.cs",
+              "RelativeToolTip": "Mood\\EF2\\MenuType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Menu.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\Menu.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Menu.cs",
+              "RelativeToolTip": "Mood\\EF2\\Menu.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "KhoHang.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\KhoHang.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\KhoHang.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\KhoHang.cs",
+              "RelativeToolTip": "Mood\\EF2\\KhoHang.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Footer.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Footer.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\Footer.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Footer.cs",
+              "RelativeToolTip": "Mood\\EF2\\Footer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FeedBack.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\FeedBack.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\FeedBack.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\FeedBack.cs",
+              "RelativeToolTip": "Mood\\EF2\\FeedBack.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Category.cs",
+              "RelativeDocumentMoniker": "Mood\\EF2\\Category.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\EF2\\Category.cs",
+              "RelativeToolTip": "Mood\\EF2\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UserDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\UserDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\UserDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\UserDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\UserDraw.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MeNuModelView.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\MenuModel\\MeNuModelView.cs",
+              "RelativeDocumentMoniker": "Mood\\MenuModel\\MeNuModelView.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\MenuModel\\MeNuModelView.cs",
+              "RelativeToolTip": "Mood\\MenuModel\\MeNuModelView.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "NhaCungCapDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\NhaCungCapDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\NhaCungCapDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\NhaCungCapDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\NhaCungCapDraw.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MessengerDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\MessengerDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\MessengerDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\MessengerDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\MessengerDraw.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MenuDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\MenuDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\MenuDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\MenuDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\MenuDraw.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\CommomSentMail\\MailHelper.cs",
+              "RelativeDocumentMoniker": "CommomSentMail\\MailHelper.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\CommomSentMail\\MailHelper.cs",
+              "RelativeToolTip": "CommomSentMail\\MailHelper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\CommomSentMail\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CommomSentMail\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\CommomSentMail\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CommomSentMail\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FooterDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\FooterDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\FooterDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\FooterDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\FooterDraw.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ContactDraw.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\ContactDraw.cs",
+              "RelativeDocumentMoniker": "Mood\\Draw\\ContactDraw.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\Draw\\ContactDraw.cs",
+              "RelativeToolTip": "Mood\\Draw\\ContactDraw.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "cancel_order.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\cancel_order.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\cancel_order.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\cancel_order.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\cancel_order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "oderComplete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\oderComplete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CategoryMobile.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\CategoryMobile.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Product\\CategoryMobile.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\CategoryMobile.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Product\\CategoryMobile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\Search.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Product\\Search.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\Search.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Product\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\Category.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Shared\\Category.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Shared\\Category.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Shared\\Category.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Product\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\NotFound.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Product\\NotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ListProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\ListProduct.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Product\\ListProduct.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Product\\ListProduct.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Product\\ListProduct.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ProfileUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\ProfileUser.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\ProfileUser.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\ProfileUser.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\ProfileUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "MessengerUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\MessengerUser.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\MessengerUser.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\MessengerUser.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\MessengerUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "MessengerReply.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\MessengerReply.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\MessengerReply.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\MessengerReply.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\MessengerReply.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Users\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "HeaderCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\HeaderCart.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Home\\HeaderCart.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\HeaderCart.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Home\\HeaderCart.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Slider.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\Slider.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Home\\Slider.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Home\\Slider.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Home\\Slider.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "cancel_order_momo.cshtml",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\cancel_order_momo.cshtml",
+              "RelativeDocumentMoniker": "BaiTapLon\\Views\\Cart\\cancel_order_momo.cshtml",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\BaiTapLon\\Views\\Cart\\cancel_order_momo.cshtml",
+              "RelativeToolTip": "BaiTapLon\\Views\\Cart\\cancel_order_momo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-18T16:16:55.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\HoaDonModel\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Mood\\HoaDonModel\\ChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\HoaDonModel\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Mood\\HoaDonModel\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "MessengerModel.cs",
+              "DocumentMoniker": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\HoaDonModel\\MessengerModel.cs",
+              "RelativeDocumentMoniker": "Mood\\HoaDonModel\\MessengerModel.cs",
+              "ToolTip": "C:\\Users\\ngoho\\OneDrive\\Desktop\\Do_An\\Do_An\\Do_An\\Do_An\\Mood\\HoaDonModel\\MessengerModel.cs",
+              "RelativeToolTip": "Mood\\HoaDonModel\\MessengerModel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:16:55.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
